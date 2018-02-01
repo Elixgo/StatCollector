@@ -1,4 +1,4 @@
 ReportInterval = 100
-ServerHost = "localhost"
+ServerHost = "https://localhost"
 ServerPort = 8465
 Logging = true
