@@ -1,0 +1,4 @@
+ReportInterval = 100
+ServerHost = "localhost"
+ServerPort = 8465
+Logging = true
